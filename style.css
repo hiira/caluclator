@@ -1,0 +1,109 @@
+body{
+    background-color:#efefef;
+    text-align:center;
+}
+#title{
+    width:500px;
+    height:50px;
+    text-align:center;
+    font-size:30px;
+    line-height:50px;
+    background-color:rgb(255, 187, 40);
+    color:rgb(236, 236, 236);
+}
+
+#whole{
+    width:500px;
+    height:450px;
+    background-color:white;
+    margin:80px auto;
+}
+
+.formula{
+    margin:20px auto;
+    user-select:none;
+}
+
+#equall{
+    display:inline-block;
+    margin:20px 0 20px 10px;
+    height:30px;
+    width:30px;
+    font-size:20px;
+    background-color:#efefef;
+    border-radius:200%;
+    cursor:pointer;
+}
+
+#equall:hover{
+    background-color:red;
+}
+
+#result1{
+    display:inline-block;
+    height:30px;
+    width:30px;
+}
+
+#equal2{
+    display:inline-block;
+    margin:20px 0 20px 10px;
+    height:30px;
+    width:30px;
+    font-size:20px;
+    background-color:#efefef;
+    border-radius:200%;
+    cursor:pointer;
+}
+
+#equal2:hover{
+    background-color:red;
+}
+
+#result2{
+    display:inline-block;
+    height:30px;
+    width:30px;
+}
+
+#equal3{
+    display:inline-block;
+    margin:20px 0 20px 10px;
+    height:30px;
+    width:30px;
+    font-size:20px;
+    background-color:#efefef;
+    border-radius:200%;
+    cursor:pointer;
+}
+
+#equal3:hover{
+    background-color:red;
+}
+
+#result3{
+    display:inline-block;
+    height:30px;
+    width:30px;
+}
+
+#equal4{
+    display:inline-block;
+    margin:20px 0 20px 10px;
+    height:30px;
+    width:30px;
+    font-size:20px;
+    background-color:#efefef;
+    border-radius:200%;
+    cursor:pointer;
+}
+
+#equal4:hover{
+    background-color:red;
+}
+
+#result4{
+    display:inline-block;
+    height:30px;
+    width:30px;
+}
